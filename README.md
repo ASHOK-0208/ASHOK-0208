@@ -1,4 +1,4 @@
-👋 Hi, I'm ASHOK], a Freelancing Programmer with expertise in Python
+👋 Hi, I'm ASHOK, a Freelancing Programmer with expertise in Python
 
 🚀 Currently working on Building an Application in Streamlit Framework using Python.
 
